@@ -1,3 +1,3 @@
 node /example/ {
-	include	testrepo
+	include	role::lamp
 }
